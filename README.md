@@ -1,1 +1,1 @@
-# SQL-project
+# Mobile price prediction.SQL-project
